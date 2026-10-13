@@ -1,4 +1,4 @@
-package week2;
+package week2.entities;
 
 import java.util.Objects;
 

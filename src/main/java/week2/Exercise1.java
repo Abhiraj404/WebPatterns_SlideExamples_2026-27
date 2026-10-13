@@ -1,4 +1,6 @@
 package week2;
+import week2.entities.Product;
+
 import java.sql.*;
 import java.util.ArrayList;
 
